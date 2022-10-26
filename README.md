@@ -1,13 +1,22 @@
 # 👨‍🏭 Things I've worked on
 
+
+### ✨ Features
+
+### 🐞 Bug fixes
+
+### ⚡️ Improvements
+
+
+
+
+
 ## GoDaddy Studio Rebrand
 
 ### Implement new Splash screen using Lottie
 
 
-
 https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-8203-6ea965d03eaa.mp4
-
 
 
 ## 📐Updated canvas preset sizes to match doc
