@@ -4,7 +4,7 @@
 ### ✨ Features
 - [Implement new Splash screen using Lottie](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#implement-new-splash-screen-using-lottie)
 
-- [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
+- [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
 
 
 ### 🐞 Bug fixes
@@ -15,14 +15,28 @@
 
 
 
+![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
+
+
+## Built a new SSO Landing screen
+
+![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
+
+
+
+
 
 
 ## GoDaddy Studio Rebrand
+
+<img width="500" src="https://user-images.githubusercontent.com/80469971/123388595-a20acd80-d5a1-11eb-830a-cd852f1a0647.png">
+
 
 ### Implement new Splash screen using Lottie
 
 
 https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-8203-6ea965d03eaa.mp4
+
 
 
 ## 📐Updated canvas preset sizes to match doc
