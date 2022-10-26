@@ -18,9 +18,17 @@
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
 
-## Built a new SSO Landing screen
 
-![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
+## 🧳 SSO Migration UI
+
+![Studio-Project-6](https://user-images.githubusercontent.com/80469971/128394811-eed1e96f-90b1-4c4b-bc4f-02df87be7cea.jpg)
+
+
+
+## 🛬 Introducing the new SSO Landing Screen
+
+
+![Over-Project-20](https://user-images.githubusercontent.com/80469971/126309489-08ed6ee7-be12-43fe-9d28-cd2d9f6d62a6.png)
 
 
 
