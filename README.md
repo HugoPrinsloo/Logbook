@@ -6,6 +6,9 @@
 
 - [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
 
+- [Introducing the new SSO Landing Screen](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-introducing-the-new-sso-landing-screen)
+
+- [SSO Migration UI](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-sso-migration-ui)
 
 ### 🐞 Bug fixes
 
