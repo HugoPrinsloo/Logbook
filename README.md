@@ -1,18 +1,39 @@
 # 👨‍🏭 Things I've worked on
 
+
+### ✨ Features
+- [Implement new Splash screen using Lottie](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#implement-new-splash-screen-using-lottie)
+
+- [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
+
+
+### 🐞 Bug fixes
+
+### ⚡️ Improvements
+
+- [Updated canvas preset sizes to match doc info](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#updated-canvas-preset-sizes-to-match-doc)
+
+
+
+
+
+## GoDaddy Studio Rebrand
+
+### Implement new Splash screen using Lottie
+
+
+https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-8203-6ea965d03eaa.mp4
+
+
 ## 📐Updated canvas preset sizes to match doc
 
-> Updated sizes to match the recommended Canvas Sizes
+[PR Link](https://github.com/gdcorp-mobile/Over-iOS/pull/158)
+
+![p1](https://user-images.githubusercontent.com/80469971/197999983-3af1c9df-5098-4a91-9a92-23778f1493b3.jpg)
 
 
-[PR Link]()
-
-<img width="200" alt="CleanShot 2022-10-26 at 11 46 09@2x" src="https://user-images.githubusercontent.com/80469971/197994184-1570937a-47a9-4fbc-97cb-091f5703acc7.png">
-
-<img width="1314" alt="CleanShot 2022-10-26 at 11 46 47@2x" src="https://user-images.githubusercontent.com/80469971/197994342-26524035-7e03-4540-8003-211ba740c23b.png">
 
 ## 🕵️‍♂️Implement ATT (App Tracking Transparency) in Studio
 
-> Making sure the user's data stays private unless they opt in to share with 3rd party libraries.
 
-<img title="" src="https://user-images.githubusercontent.com/80469971/197991772-00bb9784-55dc-468c-919c-1c95b8a58218.png" alt="CleanShot 2022-10-26 at 11 35 34@2x" width="300" data-align="left">
+![Studio-Project-77](https://user-images.githubusercontent.com/80469971/197998739-e25bf606-b6f7-429f-bc5e-6d433f6b4a1a.jpg)
