@@ -6,7 +6,7 @@
 
 
 
-<img width="1000" src="https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-8203-6ea965d03eaa.mp4">
+https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-8203-6ea965d03eaa.mp4
 
 
 
@@ -14,7 +14,8 @@
 
 [PR Link](https://github.com/gdcorp-mobile/Over-iOS/pull/158)
 
-![p1.jpg](quiver-image-url/10D54B964F6223D85067619EB6D56874.jpg =1920x1080)
+![p1](https://user-images.githubusercontent.com/80469971/197999983-3af1c9df-5098-4a91-9a92-23778f1493b3.jpg)
+
 
 
 ## 🕵️‍♂️Implement ATT (App Tracking Transparency) in Studio
