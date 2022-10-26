@@ -11,6 +11,8 @@
 
 ### ⚡️ Improvements
 
+- [Created `ScrollableVStack` - a reusable component that solves layout issues on compact devices](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-introducing-scrollablevstack)
+
 - [Updated canvas preset sizes to match doc info](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#updated-canvas-preset-sizes-to-match-doc)
 
 
