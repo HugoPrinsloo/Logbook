@@ -6,9 +6,6 @@
 
 - [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
 
-- [Introducing the new SSO Landing Screen](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-introducing-the-new-sso-landing-screen)
-
-- [SSO Migration UI](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-sso-migration-ui)
 
 ### 🐞 Bug fixes
 
@@ -19,6 +16,14 @@
 
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
+
+
+## ✨ Introducing: ScrollableVStack
+
+A scrollable view that arranges its children in a vertical line
+
+https://user-images.githubusercontent.com/80469971/132105081-770f593a-ecce-4de2-8e63-e82e6bd91dac.mp4
+
 
 
 
