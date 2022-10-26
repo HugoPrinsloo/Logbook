@@ -19,6 +19,11 @@
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
+## Fix "element unique id" event bug
+
+
+![Studio-Project-78](https://user-images.githubusercontent.com/80469971/198006793-81264bf3-a47a-4fec-a2c4-a74d0d3a5ecc.jpg)
+
 
 ## ✨ Introducing: ScrollableVStack
 
