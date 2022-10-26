@@ -4,7 +4,7 @@
 ### ✨ Features
 - [Implement new Splash screen using Lottie](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#implement-new-splash-screen-using-lottie)
 
-- [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
+- [Implement ATT (App Tracking Transparency) in Studio](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#%EF%B8%8F%EF%B8%8Fimplement-att-app-tracking-transparency-in-studio)
 
 
 ### 🐞 Bug fixes
