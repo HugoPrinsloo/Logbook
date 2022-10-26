@@ -8,6 +8,7 @@
 
 
 ### 🐞 Bug fixes
+- [📈 Fix: "element unique id" not logged for graphics collections](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#fix-element-unique-id-event-bug)
 
 ### ⚡️ Improvements
 
