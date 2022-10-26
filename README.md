@@ -23,6 +23,11 @@
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
+## 🗺 Social Site Onboarding
+> Implemented Social site's onboarding flows
+
+![Studio-Project-85](https://user-images.githubusercontent.com/80469971/198030059-e0adacc0-ed55-4015-83bc-f9e48f8366ca.jpg)
+
 
 
 ## 🏴‍☠️ Black Friday
@@ -68,7 +73,7 @@ When a user makes a purchase we have access to the SKProduct's priceLocale.
 > I built the new Landing + Migration screens at the start of GoDaddy sign in 
 
 
-![Studio-Project-84](https://user-images.githubusercontent.com/80469971/198028892-a6cb1f18-3061-4d1b-9cfe-e9c06f46e533.jpg)
+![Studio-Project-84](https://user-images.githubusercontent.com/80469971/198029608-f369349f-f73c-4a9c-a223-f877e3cccb5e.jpg)
 
 
 ## GoDaddy Studio Rebrand
