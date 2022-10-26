@@ -24,8 +24,67 @@
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
 
+## 🛍️ Try before you buy (RBG free usage)
+> Users are able to try RBG on 3 different images before needing to subscribe
 
-## Improve error logging 
+![Studio-Project-92](https://user-images.githubusercontent.com/80469971/198042243-a98c795b-8e39-4470-a581-2a9e30748585.jpg)
+
+
+
+## 📹 Made video assets "safe"
+> Renaming, deleting, or even just moving video assets around in the codebase would cause the app to crash. Introducing **OverVideoAsset**, a video asset manager that provide guaranteed video file urls. 
+
+![Studio-Project-91](https://user-images.githubusercontent.com/80469971/198039062-ebc2e512-2ced-4bcb-b69b-a938f720bb4a.jpg)
+
+
+
+
+
+## ✨ The Quick Action Shelf
+
+**Hypothesis:** By connecting users directly to popular features such as remove background, we help users to discover and learn more features, thus increasing the chance of project creation and export.
+
+![mockuuups-iphone-13-pro-mockup-held-with-both-hands-by-a-user-outdoors1](https://user-images.githubusercontent.com/80469971/185617029-80abc905-7727-446c-b4f8-a4b10d8af887.jpeg)
+
+
+
+
+
+<img width="700" src="https://user-images.githubusercontent.com/80469971/185614158-e336c494-fb81-4359-968f-7ae1b8481a19.png">
+
+
+
+## Instant Video Onboarding
+
+> This required changes in the existing project creation flow to allow project sizing before having a project
+
+![Studio-Project-90](https://user-images.githubusercontent.com/80469971/198036918-0382fc60-4a77-4413-9dbc-7c9530129f13.jpg)
+
+
+## Built the Onboarding Goal Picker V2 
+> Added accessibility support. 
+
+![Studio-Project-88](https://user-images.githubusercontent.com/80469971/198034875-3954f66c-2aa0-4b12-b1f7-a563071b581d.jpg)
+
+Refactored Goal objects to support title & icon experimentation without having to duplicate goal objects.. 
+
+![Studio-Project-89](https://user-images.githubusercontent.com/80469971/198035555-372d8e6c-f564-4c22-9893-4a78da47e083.jpg)
+
+
+
+## Created a reusable subscription option component
+> This view is designed to hold the new WAM subscription options. It animates when tapped and support theming. 
+
+![Studio-Project-87](https://user-images.githubusercontent.com/80469971/198033066-6df920ac-55ed-45d2-87e4-8a346d647b85.jpg)
+
+### Demo
+<img width="300" src="https://user-images.githubusercontent.com/80469971/144422043-7992f1cc-68d8-4e50-a85f-7e981fabcff1.gif">
+
+### Theme
+<img width="250" src="https://user-images.githubusercontent.com/80469971/144425314-4609276d-d9a2-47b9-b4be-3a47bcfaae8b.png"><img width="250" src="https://user-images.githubusercontent.com/80469971/144425311-cda1e499-12c5-4314-adab-fd26d2aef4a6.png">
+
+
+## Improve JSON Parsing error logging 
 ![Studio-Project-86](https://user-images.githubusercontent.com/80469971/198031746-df545852-de11-423c-b96d-bc92852fd967.jpg)
 
 
