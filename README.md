@@ -16,6 +16,9 @@
 
 - [Updated canvas preset sizes to match doc info](https://github.com/HugoPrinsloo/Logbook/edit/develop/README.md#updated-canvas-preset-sizes-to-match-doc)
 
+### Other
+- [Helping with SSO](https://github.com/HugoPrinsloo/Logbook/blob/develop/README.md#-sso-migration-ui)
+
 
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
@@ -33,13 +36,7 @@
 
 
 
-## 🌍 WAM - Update the subscription receipt verification process to include marketID
-> The eComm backend requires a market ID to associate with a purchase for accounting purposes.
 
-When a user makes a purchase we have access to the SKProduct's priceLocale. 
-
-
-![Studio-Project-79](https://user-images.githubusercontent.com/80469971/198025503-93c310c9-aff9-48a7-9e8b-2e51e9aec81d.jpg)
 
 ## Fix "element unique id" event bug
 
@@ -56,21 +53,28 @@ https://user-images.githubusercontent.com/80469971/132105081-770f593a-ecce-4de2-
 
 
 
+
+
+
+## 🌍 WAM - Update the subscription receipt verification process to include marketID
+> The eComm backend requires a market ID to associate with a purchase for accounting purposes.
+
+When a user makes a purchase we have access to the SKProduct's priceLocale. 
+
+
+![Studio-Project-79](https://user-images.githubusercontent.com/80469971/198025503-93c310c9-aff9-48a7-9e8b-2e51e9aec81d.jpg)
+
 ## 🧳 SSO Migration UI
 > I built the new Landing + Migration screens at the start of GoDaddy sign in 
 
-![Studio-Project-81](https://user-images.githubusercontent.com/80469971/198027732-a4f90ed3-44e6-4a65-9a4a-363db83ebeb0.jpg)
 
-
-
-
-
+![Studio-Project-84](https://user-images.githubusercontent.com/80469971/198028892-a6cb1f18-3061-4d1b-9cfe-e9c06f46e533.jpg)
 
 
 ## GoDaddy Studio Rebrand
 > Changing "Over" -> "GoDaddy" and making sure layouts don't break
 
-<img width="500" src="https://user-images.githubusercontent.com/80469971/123388595-a20acd80-d5a1-11eb-830a-cd852f1a0647.png">
+![Studio-Project-82](https://user-images.githubusercontent.com/80469971/198028667-a5a92850-e8b6-49b7-971d-14bbeea600d7.jpg)
 
 
 ### Implement new Splash screen using Lottie
@@ -82,7 +86,6 @@ https://user-images.githubusercontent.com/80469971/122578685-c96f1100-d05c-11eb-
 
 ## 📐Updated canvas preset sizes to match doc
 
-[PR Link](https://github.com/gdcorp-mobile/Over-iOS/pull/158)
 
 ![p1](https://user-images.githubusercontent.com/80469971/197999983-3af1c9df-5098-4a91-9a92-23778f1493b3.jpg)
 
