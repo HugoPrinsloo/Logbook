@@ -20,6 +20,27 @@
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
+
+
+## 🏴‍☠️ Black Friday
+> The work included: 
+- Building the black friday upsell
+- Adding 2x new SKUs (Subscription configuration)
+- Adding rules when this upsell & subscriptions will be active
+
+![Studio-Project-80](https://user-images.githubusercontent.com/80469971/198026474-7f2b95e1-251e-41b9-8619-8fb0280648bc.jpg)
+
+
+
+
+## 🌍 WAM - Update the subscription receipt verification process to include marketID
+> The eComm backend requires a market ID to associate with a purchase for accounting purposes.
+
+When a user makes a purchase we have access to the SKProduct's priceLocale. 
+
+
+![Studio-Project-79](https://user-images.githubusercontent.com/80469971/198025503-93c310c9-aff9-48a7-9e8b-2e51e9aec81d.jpg)
+
 ## Fix "element unique id" event bug
 
 
@@ -36,15 +57,15 @@ https://user-images.githubusercontent.com/80469971/132105081-770f593a-ecce-4de2-
 
 
 ## 🧳 SSO Migration UI
+<img width="500" src="https://user-images.githubusercontent.com/80469971/128394811-eed1e96f-90b1-4c4b-bc4f-02df87be7cea.jpg">
 
-![Studio-Project-6](https://user-images.githubusercontent.com/80469971/128394811-eed1e96f-90b1-4c4b-bc4f-02df87be7cea.jpg)
+
 
 
 
 ## 🛬 Introducing the new SSO Landing Screen
+<img width="500" src="https://user-images.githubusercontent.com/80469971/126309489-08ed6ee7-be12-43fe-9d28-cd2d9f6d62a6.png">
 
-
-![Over-Project-20](https://user-images.githubusercontent.com/80469971/126309489-08ed6ee7-be12-43fe-9d28-cd2d9f6d62a6.png)
 
 
 
