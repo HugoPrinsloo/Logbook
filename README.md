@@ -57,14 +57,9 @@ https://user-images.githubusercontent.com/80469971/132105081-770f593a-ecce-4de2-
 
 
 ## 🧳 SSO Migration UI
-<img width="500" src="https://user-images.githubusercontent.com/80469971/128394811-eed1e96f-90b1-4c4b-bc4f-02df87be7cea.jpg">
+> I built the new Landing + Migration screens at the start of GoDaddy sign in 
 
-
-
-
-
-## 🛬 Introducing the new SSO Landing Screen
-<img width="500" src="https://user-images.githubusercontent.com/80469971/126309489-08ed6ee7-be12-43fe-9d28-cd2d9f6d62a6.png">
+![Studio-Project-81](https://user-images.githubusercontent.com/80469971/198027732-a4f90ed3-44e6-4a65-9a4a-363db83ebeb0.jpg)
 
 
 
@@ -73,6 +68,7 @@ https://user-images.githubusercontent.com/80469971/132105081-770f593a-ecce-4de2-
 
 
 ## GoDaddy Studio Rebrand
+> Changing "Over" -> "GoDaddy" and making sure layouts don't break
 
 <img width="500" src="https://user-images.githubusercontent.com/80469971/123388595-a20acd80-d5a1-11eb-830a-cd852f1a0647.png">
 
