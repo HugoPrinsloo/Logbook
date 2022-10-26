@@ -23,6 +23,13 @@
 
 ![Studio-Project-45](https://user-images.githubusercontent.com/80469971/188110342-55add04b-0e0e-4255-a59b-140af4e55769.png)
 
+
+
+## Improve error logging 
+![Studio-Project-86](https://user-images.githubusercontent.com/80469971/198031746-df545852-de11-423c-b96d-bc92852fd967.jpg)
+
+
+
 ## 🗺 Social Site Onboarding
 > Implemented Social site's onboarding flows
 
